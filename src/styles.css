@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+/**
+media screen and (min-width: 1023px) {
+    #body {padding-left: 1rem; padding-right: 3.5rem}
+}
+**/
+
+html, body {
+    height:100%
+}
+
+.black {
+    color: #32292F;
+    background-color: #32292F;
+}
+
+.grey {
+    color: #575366;
+    background-color: #575366;
+}
+
+.light-blue{
+    color: #6E7DAB;
+}
+
+.blue {
+    color: #5762D5;
+}
+
+.mint {
+    color: #D1E3DD;
+}
